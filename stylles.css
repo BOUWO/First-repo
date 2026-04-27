@@ -1,0 +1,27 @@
+.flexxer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid black;
+  margin: 0;
+  width: fit-content;
+  justify-self: center;
+}
+
+.titelVanHetEindproject {
+  font-size: 50px;
+  margin: 0;
+}
+
+.kleineTextOnderDeTitelVanHetEindproject,
+.kleineTextBovenDeTitelVanHetEindproject {
+  font-size: 5px;
+  margin: 0;
+}
+
+.gridlock {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 10px;
+}
