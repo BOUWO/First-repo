@@ -12,7 +12,7 @@
 .titelVanHetEindproject {
   font-size: 50px;
   margin: 0;
-}
+
 
 .kleineTextOnderDeTitelVanHetEindproject,
 .kleineTextBovenDeTitelVanHetEindproject {
@@ -20,7 +20,7 @@
   margin: 0;
 }
 
-.gridlock {
+
   display: grid;
   grid-template-rows: repeat(3, 1fr);
   gap: 10px;
