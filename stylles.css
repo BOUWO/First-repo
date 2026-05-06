@@ -7,6 +7,7 @@
   margin: 0;
   width: fit-content;
   justify-self: center;
+  padding: 20px 100px;
 }
 
 .titelVanHetEindproject {
@@ -29,5 +30,7 @@
 
 .uitlegTextVanHetEindproject {
   font-size: 20px;
-  margin: 0;
+  width: 404.5px;
+  justify-self: center;
+  text-align: center;
 }
